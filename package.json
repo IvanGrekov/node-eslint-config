@@ -1,0 +1,11 @@
+{
+    "name": "eslint-config",
+    "main": "index.js",
+    "scripts": {
+        "lint": "eslint"
+    },
+    "devDependencies": {
+        "@mate-academy/eslint-config": "^0.0.20",
+        "eslint": "^8.24.0"
+    }
+}
